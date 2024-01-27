@@ -1,0 +1,1 @@
+Download Llama 2 7B Chat ggml from https://huggingface.co/localmodels/Llama-2-7B-Chat-ggml and place it in this directory.
